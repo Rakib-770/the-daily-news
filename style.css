@@ -1,0 +1,41 @@
+.cards-container{
+    margin-left: 200px; 
+}
+.float-style {
+    float: left;
+    
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.post-news{
+    color: white;
+    font-weight: bold;
+}
+.form-container{
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 10px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.news-container {
+    max-height: 150px;
+    overflow: hidden;
+}
+.view-full-news {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+    text-align: center;
+}
